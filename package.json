@@ -8,5 +8,9 @@
   },
   "keywords": ["javascript", "node"],
   "author": "Hielo Elemental <hieloelemental@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "npm-node-package-management-javascript-Platzi": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
