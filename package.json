@@ -1,6 +1,6 @@
 {
   "name": "npm-node-package-management-javascript-platzi",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Platzi \"NPM: Gestión de Paquetes y Dependencias en JavaScript\" course",
   "main": "index.js",
   "scripts": {
