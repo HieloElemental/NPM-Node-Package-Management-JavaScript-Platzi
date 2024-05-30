@@ -4,7 +4,7 @@
   "description": "Platzi \"NPM: Gestión de Paquetes y Dependencias en JavaScript\" course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "keywords": [
     "javascript",
@@ -13,6 +13,7 @@
   "author": "Hielo Elemental <hieloelemental@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "json-server": "^1.0.0-beta.0",
     "moment": "^2.30.1",
     "react": "^18.3.1"
   },
