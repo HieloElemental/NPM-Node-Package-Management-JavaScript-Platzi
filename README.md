@@ -17,4 +17,4 @@ npm-node-management-javascript-platzi
 
 ### Contributing
 
-> this project probably get deprecated, but here born all the future project that probably be good for people :3
+> this project probably get deprecated, but here born all the future projects that probably be good for people :3
