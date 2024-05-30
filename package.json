@@ -1,12 +1,15 @@
 {
   "name": "npm-node-package-management-javascript-platzi",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Platzi \"NPM: Gestión de Paquetes y Dependencias en JavaScript\" course",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["javascript", "node"],
+  "keywords": [
+    "javascript",
+    "node"
+  ],
   "author": "Hielo Elemental <hieloelemental@gmail.com>",
   "license": "MIT",
   "bin": {
@@ -14,4 +17,3 @@
   },
   "preferGlobal": true
 }
-
